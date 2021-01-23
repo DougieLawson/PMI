@@ -11,4 +11,4 @@ Some parts &copy; 2007 Concept2 UK Ltd & Drive Phase Software Concepts.
 
 Added the C2 Interactive Plan spreadsheet.
 
-Added the Pete Plan log (&copy 2021 Jackarabit)
+Added the Pete Plan log (&copy; 2021 Jackarabit)
